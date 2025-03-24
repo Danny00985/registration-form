@@ -14,6 +14,7 @@ h2 {
     text-align: center;
     color: #333;
     font-size: 24px;
+    margin-left: 25%;
     margin-bottom: 30px;
 }
 
@@ -33,7 +34,7 @@ input[type="text"],
 input[type="email"],
 input[type="tel"],
 input[type="submit"] {
-    width: 50%;
+    width: 70%;
     padding: 12px;
     margin: 10px 0;
     border: 2px solid #ccc;
